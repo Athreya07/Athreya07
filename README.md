@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Atharva Galwade
 
-<!--
-**Athreya07/Athreya07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer** focused on building intelligent, scalable, and user-centric applications.
 
-Here are some ideas to get you started:
+I enjoy developing software that combines clean engineering with practical machine learning solutions. My interests include Artificial Intelligence, Full-Stack Development, Backend Engineering, and Software Architecture. I continuously explore new technologies by building real-world projects that solve meaningful problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Languages**
+Python • C++ • C • SQL • JavaScript
+
+**Frontend**
+React • HTML • CSS
+
+**Backend**
+FastAPI • Flask • REST APIs
+
+**Machine Learning**
+Scikit-learn • TensorFlow • Pandas • NumPy
+
+**Database & Tools**
+MySQL • Git • GitHub • VS Code • Vercel • Render
+
+## Featured Projects
+
+* **AI Chess** — Chess engine with intelligent move generation and game analysis.
+* **Weather Forecasting System** — Deep learning-based weather prediction application.
+* **TruthGuard** — Fake news detection using Natural Language Processing and Machine Learning.
+* **AI Interview Platform** — AI-powered interview preparation and assessment platform.
+* **RunPune** — Territory-based fitness application using GPS tracking.
+
+## Currently Exploring
+
+* Backend System Design
+* Machine Learning Engineering
+* Cloud Deployment
+* Data Structures & Algorithms
+
+## Connect
+
+* LinkedIn
+* Email
+* Portfolio
+
+---
+
+*Building software that is reliable, scalable, and impactful.*
