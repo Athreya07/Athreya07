@@ -27,7 +27,6 @@ MySQL • Git • GitHub • VS Code • Vercel • Render
 * **Weather Forecasting System** — Deep learning-based weather prediction application.
 * **TruthGuard** — Fake news detection using Natural Language Processing and Machine Learning.
 * **AI Interview Platform** — AI-powered interview preparation and assessment platform.
-* **RunPune** — Territory-based fitness application using GPS tracking.
 
 ## Currently Exploring
 
