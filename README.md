@@ -37,7 +37,7 @@ MySQL • Git • GitHub • VS Code • Vercel • Render
 
 ## Connect
 
-* LinkedIn: www.linkedin.com/in/atharva-galwade-932476288
+* LinkedIn: www.linkedin.com/in/atharvagalwade
 * Email: atharvagalwade02@gmail.com
 * Portfolio: 
 
