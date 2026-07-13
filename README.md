@@ -26,7 +26,6 @@ MySQL • Git • GitHub • VS Code • Vercel • Render
 * **AI Chess** — Chess engine with intelligent move generation and game analysis.
 * **Weather Forecasting System** — Deep learning-based weather prediction application.
 * **TruthGuard** — Fake news detection using Natural Language Processing and Machine Learning.
-* **AI Interview Platform** — AI-powered interview preparation and assessment platform.
 
 ## Currently Exploring
 
